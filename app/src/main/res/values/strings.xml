@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="full_name_hint">Enter your full name</string>
+    <string name="email_hint">Enter your email address</string>
+    <string name="create_user">Create User</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="user_tab">Users</string>
+    <string name="metadata_tab">Metadata</string>
+    <string name="create_user_title">Create User</string>
+
+    <string name="errorDialogTitle">Error!!!</string>
+    <string name="last_updated">Last Updated: </string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="status">Status</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="avatar">Avatar</string>
+    <string name="user_created_successfully">User Successfully Created!</string>
+    <string name="data_validation_error">Validation Error!</string>
+
+
+    <array name="category">
+        <item>Name</item>
+        <item>email</item>
+        <item>Created By</item>
+    </array>
+</resources>
